@@ -79,8 +79,46 @@ git clone https://github.com/miguelaugusto-bot/LTW-Uninove.git
 # Estrutura do Projeto:
 
 ```
-
-
+├── 📁 Documentos Gerais
+│   ├── 📘 PROJETO_EM_INFRAESTRUTURA_COMPUTACIONAL_LTW_83.docx
+│   ├── 📕 PROJETO_EM_INFRAESTRUTURA_COMPUTACIONAL_LTW_83.pdf
+│   └── 🖼️ logo.jpeg
+├── 📁 arquitetura
+│   ├── 📄 comparacao-e-decisao.xlsx
+│   ├── 📄 inventario-e-orcamento.xlsx
+│   ├── 📄 levantamento-de-necessidades.xlsx
+│   ├── 📄 perfis-e-compatibilidade.xlsx
+│   └── 📄 servidores-raid-energia.xlsx
+├── 📁 iot
+│   ├── 📁 Documentos
+│   │   ├── 📄 Cotacao_Sensor_de_Temperatura_Online.xlsm
+│   │   ├── 📘 Documentação-Sensor de Temperatura.docx
+│   │   └── 📕 Documentação-Sensor de Temperatura.pdf
+│   ├── 🖼️ arduino_fisico.png
+│   ├── 📄 codigo-fonte.ino
+│   ├── 🖼️ diagrama_circuito.png
+│   ├── 🖼️ teste001.png
+│   ├── 🖼️ teste002.png
+│   └── 🖼️ teste003.png
+├── 📁 redes
+│   ├── 📄 inventario-e-dimensionamento.xlsx
+│   ├── 📄 orcamento.xlsx
+│   ├── 📄 plano-ipv4.xlsx
+│   ├── 📕 relatorio-redes.pdf
+│   ├── 📝 roteiro-packet-tracer.md
+│   ├── 📄 topologia.drawio
+│   ├── 📄 topologia.pkt
+│   ├── 📕 validacao.pdf
+│   └── 📄 vlans-e-acessos.xlsx
+├── 📁 sistemas-operacionais
+│   ├── 📄 backup-recuperacao-licencas.xlsx
+│   ├── 📄 catalogo-de-servicos.xlsx
+│   ├── 📄 matriz-de-sistemas.xlsx
+│   ├── 📘 operacao-e-seguranca.docx
+│   ├── 📕 operacao-e-seguranca.pdf
+│   ├── 📄 servicos.drawio
+│   └── 📄 usuarios-grupos-permissoes.xlsx
+└── 📝 README.md
 ```
 
 # Imagens
